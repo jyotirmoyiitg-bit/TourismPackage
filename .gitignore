@@ -1,0 +1,12 @@
+*.docx
+Sample*.ipynb
+*.csv
+!tourism_project/data/tourism.csv
+.venv/
+mlruns/
+mlflow.db
+__pycache__/
+.ipynb_checkpoints/
+mlartifacts/
+mlflow.log
+nohup.out
